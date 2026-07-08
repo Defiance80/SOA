@@ -87,7 +87,7 @@ A year ago this was desperate men and the vultures who fed on them—sad, old as
 
 Lately it felt *organized.*
 
-Same well-fed faces turning up at three different rings. Fighters he'd never seen, with the wrong kind of muscle—too uniform, too engineered, the Biotech sitting under their skin in ridges a real fight would never have built.
+Same well fed faces turning up at three different rings. Fighters he'd never seen, with the wrong kind of muscle—too uniform, too engineered, the Biotech sitting under their skin in ridges a real fight would never have built.
 
 Somebody was investing.
 
@@ -107,7 +107,7 @@ One of the men had a hand braced on the wall beside her head, leaning in, saying
 
 Aesir was moving before he'd decided to.
 
-That was a thing about him he'd stopped questioning. In the rooms where other people froze, some cold clean part of him simply *acted.* A half-step ahead of his own anger.
+That was a thing about him he'd stopped questioning. In the rooms where other people froze, some cold clean part of him simply *acted.* A half step ahead of his own anger.
 
 "Two of you," he said, "and you still had to corner her against a wall. That's not confidence. That's a confession."
 
@@ -395,7 +395,7 @@ Cages.
 
 Aesir's stomach turned at the word. But there was no other word.
 
-Cages along the far wall. In them, people. Two dozen at least. In the flat-eyed stillness of the already-broken.
+Cages along the far wall. In them, people. Two dozen at least. In the flat eyed stillness of the already-broken.
 
 Crates of Eltech components stamped with marks Aesir didn't recognize and Naska did. Her breath caught when she read them. She didn't explain. Only filed it. Her face gone hard.
 
@@ -493,7 +493,7 @@ Not looking at the escaping captives that were the ruin of his night.
 
 He was looking, with a calm and terrible attention, directly at Aesir.
 
-At Aesir's face. At his red-dark hair. At the way he'd moved.
+At Aesir's face. At his red dark hair. At the way he'd moved.
 
 And—Aesir understood with a cold that went all the way down—at the blow that hadn't landed.
 

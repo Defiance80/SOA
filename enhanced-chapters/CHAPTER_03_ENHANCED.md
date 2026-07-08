@@ -25,7 +25,7 @@ They'd come up like seedlings forced through stone.
 
 The elder, Aesir, had been a fierce and watchful child. Was becoming a fiercer, less watchful youth. Quick to laugh. Quicker to burn. His red hair deepening year on year into the color of banked coal—as though his body were slowly making visible something that had always been true of him.
 
-Thirteen now. All restless edges. Forever a half-step ahead of his own good sense.
+Thirteen now. All restless edges. Forever a half step ahead of his own good sense.
 
 The younger, Raijeen, was ten. Had grown into a stillness that unsettled adults who expected children to be loud.
 
@@ -498,7 +498,7 @@ Eryndor looked down at the courtyard. At the boy's wrist, where civilian-grade E
 
 That boy had just bypassed it entirely.
 
-Eryndor had only seen that described in pre-war texts. Before Eliants needed tech to sustain their gifts. When their reserves were deep enough to manifest raw.
+Eryndor had only seen that described in pre war texts. Before Eliants needed tech to sustain their gifts. When their reserves were deep enough to manifest raw.
 
 That stamina didn't exist anymore. Centuries of regulated dependency had bred it out.
 

@@ -23,7 +23,7 @@ Had arranged his whole life so that most of it could be done without light, with
 
 Asking was a debt. Raijeen kept no debts he could not carry himself.
 
-The blue hour was the one part of the day that answered to him and no one else. No father. No tutors. No clean-coated men measuring him across a supper table for the strangeness he was learning to fold away.
+The blue hour was the one part of the day that answered to him and no one else. No father. No tutors. No clean coated men measuring him across a supper table for the strangeness he was learning to fold away.
 
 He had claimed it the way a soldier claims high ground.
 
@@ -565,7 +565,7 @@ Aesir met them. Easy. Open. A boy with nothing to hide. Lifted a lazy hand in gr
 
 "You wanted me, sir?" Raijeen said.
 
-There was something in the way he said it. A half-step forward. A placing of himself in the doorway between his father and the hall.
+There was something in the way he said it. A half step forward. A placing of himself in the doorway between his father and the hall.
 
 Mandu's soldier's eye caught it.
 
@@ -633,7 +633,7 @@ Faint. So faint. Along the edge of Aesir's jaw where the blood runs close to the
 
 A light.
 
-Not glowing. Just... banked. The coal-glow of a fire someone had long ago learned to keep down.
+Not glowing. Just... banked. The coal glow of a fire someone had long ago learned to keep down.
 
 It was there. Aesir did not know it was there. The way you never see your own eyes.
 
@@ -771,13 +771,13 @@ To whom, and into what, the dark did not say.
 
 Only that his voice was unhurried. That he left nothing out.
 
-The red-dark hair. The way the body had moved a half-beat ahead of the world. The blow that should have folded a grown man and had done precisely nothing.
+The red dark hair. The way the body had moved a half-beat ahead of the world. The blow that should have folded a grown man and had done precisely nothing.
 
 He set the boy down into the room the way you set a coin on a table you fully mean to return for.
 
 ---
 
-And somewhere in the bright clean machinery of the world above—not so far, perhaps, from the high tables where clean-coated men had lately taken to watching a certain lord's sons eat—a question began, quietly, to move.
+And somewhere in the bright clean machinery of the world above—not so far, perhaps, from the high tables where clean coated men had lately taken to watching a certain lord's sons eat—a question began, quietly, to move.
 
 He had said that he would remember.
 

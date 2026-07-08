@@ -594,7 +594,7 @@ He knelt. Brushed rubble back.
 
 There in broken stone, a crystal pulsed.
 
-Not the sickly blue-green of common Orma—gutter-drug that hollowed men into wraiths, poison the empire hanged men for touching while its own quiet corruption fattened on the trade.
+Not the sickly blue green of common Orma—gutter-drug that hollowed men into wraiths, poison the empire hanged men for touching while its own quiet corruption fattened on the trade.
 
 This was deeper. Red so dark it neared black.
 

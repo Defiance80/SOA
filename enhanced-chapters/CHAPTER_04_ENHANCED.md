@@ -37,7 +37,7 @@ Naska had grown up too.
 
 That was a thing Aesir had noticed and then worked hard at not noticing.
 
-The sharp-tongued girl who'd flicked a bully's wrist in the Academy yard had become a sharp-tongued young woman who could put an arrow through a coin at sixty paces.
+The sharp tongued girl who'd flicked a bully's wrist in the Academy yard had become a sharp tongued young woman who could put an arrow through a coin at sixty paces.
 
 Somewhere in the last two years their old easy friction had grown a second current underneath it. A thing that made them both talk faster. Stand a careful arm's length apart. Invent reasons to argue about nothing.
 
@@ -138,7 +138,7 @@ The respectable lamps gave out two streets in. After that, light came from where
 
 From doorways.
 
-From cheap blue-green Eltech bulbs buzzing over establishments that wanted to be found.
+From cheap blue green Eltech bulbs buzzing over establishments that wanted to be found.
 
 From braziers where the homeless gathered in clots, warming their hands, watching everything—because watching everything was the only currency they had left and they spent it carefully.
 
@@ -337,7 +337,7 @@ Two men were fighting.
 
 One was a slab. Shaved head. Body built by hauling things. Fists like a pair of dropped bricks.
 
-The other was lean and quick. Strung with tattoos down both arms and up his neck, the ink gone blue-green and blurred with age.
+The other was lean and quick. Strung with tattoos down both arms and up his neck, the ink gone blue green and blurred with age.
 
 The slab was winning the way a wall wins.
 
@@ -444,7 +444,7 @@ The room leaned.
 
 You could feel it. The whole crowd tilting forward an inch, the way a congregation leans toward an altar.
 
-The liquid in the vial was the sick blue-green Aesir had been smelling since he walked in. The color he'd been raised to fear without ever being told why.
+The liquid in the vial was the sick blue green Aesir had been smelling since he walked in. The color he'd been raised to fear without ever being told why.
 
 Orma.
 
@@ -562,7 +562,7 @@ Upright. Hollow. Waiting for someone to notice it should already have fallen.
 
 "It eats the future to pay for the present," Samir said. "Orma cut with Eltech. The tech opens the door. The Orma walks you through it. For one fight, you're more than you are. And every fight after, you're less. Less strong. Less *here.*"
 
-He nodded at the lean man being helped from the ring now by two others. Feet dragging. Eyes gone to that flat blue-green nowhere Aesir had smelled all night.
+He nodded at the lean man being helped from the ring now by two others. Feet dragging. Eyes gone to that flat blue green nowhere Aesir had smelled all night.
 
 "I've watched that man win forty times. Each win bought with a piece of him. There's a version of him from ten years back that was somebody. Funny. Quick. Had a girl, had a kid."
 
