@@ -30,7 +30,7 @@ And behind even the Eliants lies a fainter shape. The Indextos—beings of older
 
 This is the world as it stood: ancient powers spent, a great people brought low, secrets buried.
 
-This story begins late in that long forgetting—on a night with no name, when something out of the nearly-lost ancient world fell from the sky and landed in the desert of a country called Quandrum.
+This story begins late in that long forgetting—on a night with no name, when something out of the nearly lost ancient world fell from the sky and landed in the desert of a country called Quandrum.
 
 It begins, as such things often do, with a man who thought he was only chasing a question.
 
@@ -81,7 +81,7 @@ The first creature came at Mandu in a dead sprint, crude axe arcing to open him 
 
 He didn't block. Blocking was death—the thing carried two men's weight behind that swing.
 
-He stepped into it. Close enough to gag on rot-breath. The axe hissed past his ear instead of through his chest.
+He stepped into it. Close enough to gag on rot breath. The axe hissed past his ear instead of through his chest.
 
 Same motion, blade up. Found the soft gap beneath the arm where no armor covered. Point through lung. Wrench free. Turn before the shriek finished leaving its throat.
 
@@ -94,6 +94,68 @@ But the Beastmen wouldn't die the way dying men die.
 One took Mandu's sword clean through the belly and kept coming. Walked up the blade toward him, jaw working, utterly indifferent to its own ruin. He had to plant a boot against its hip and shove it off the steel like a farmer freeing a stuck spade. Black fluid sheeted his arm to the elbow.
 
 Second one howled over the first's body. He dropped under its swing—wind tore the sweat off his face—rose inside its reach, opened its belly with a single upward cut. It folded around its own spilling weight.
+
+---
+
+To his left, a scream cut through the din. Not the battle scream of a man still fighting. The other kind.
+
+Lorian—the young scout, barely twenty—was down. Three Beastmen had him. Were dragging him backward across the cold desert sand even as they hacked at him.
+
+"Lorian!" Mandu was already moving. Bandar a half step behind.
+
+But the gap was wrong. Too much ground. Too many bodies between.
+
+They ran. Leapt over corpses. Ducked under a wild swing. The sound Lorian was making got worse. Then stopped being a scream at all. Just a wet, breathless choking.
+
+By the time they closed the distance, it was done.
+
+The boy's lower half was gone. Simply gone. Severed clean at the waist, the two pieces of him lying in the sand like a broken doll someone had forgotten to put away.
+
+Mandu drove his blade through the nearest Beastman's throat. Bandar took the other two in a single sweeping arc that painted the ground black.
+
+But Lorian was already past helping.
+
+The rot was spreading.
+
+Mandu had seen it before, in reports. Never this close. Never this fast.
+
+From the ragged edges of the wound, black veins were creeping upward into what was left of the boy's torso. Not blood. Something else. The alchemical poison the Beastmen carried in their claws and blades, designed to spread, to corrupt, to turn living flesh into the same twisted ruin they'd made of themselves.
+
+Lorian's eyes found Mandu's. Still aware. Still in there.
+
+"Sir—"
+
+"I know." Mandu knelt. Put a hand on the boy's shoulder. "You held the line. You did everything right."
+
+The black veins reached Lorian's chest. His breath went shallow. Rattling.
+
+"Antidote's in the med packs," one of the nearby soldiers said, voice high and thin. "If we—"
+
+"He doesn't have hours." Mandu didn't look up. Kept his eyes on Lorian's. "This one's too far gone."
+
+The boy nodded. Just once. Understanding.
+
+Mandu drew his knife.
+
+"You won't feel it," he lied.
+
+Made it quick.
+
+---
+
+When he stood, the black rot had already begun to fade from Lorian's body. The poison needed living flesh. Without it, the alchemy simply... stopped. Left behind only a boy in pieces, looking smaller in death than he ever had in life.
+
+Mandu wiped his blade on his cloak. Turned to the rest of the platoon, who'd gone quiet in a circle around them.
+
+"The rot spreads from their weapons. From their claws. You've got hours at most before it takes you past saving. Anyone gets touched, you call it. Loud. We've got antidote, but only if you tell us in time."
+
+He paused.
+
+"Lorian didn't call it because he was trying to hold. Don't be Lorian. Call it. That's an order."
+
+The men nodded. Some of them looked at the body. Most looked away.
+
+"Wrap him," Mandu said. "We'll carry him home."
 
 Then the world closed in.
 
@@ -174,7 +236,7 @@ Lorian spotted it first—youngest scout, still had the eyes of a man who hadn't
 
 ---
 
-It rose half-buried, as though the earth had tried to swallow it whole and given up before the work was done.
+It rose half buried, as though the earth had tried to swallow it whole and given up before the work was done.
 
 The stone was ancient.
 
@@ -266,7 +328,7 @@ And both of them were glowing.
 
 Faintly. From beneath the skin.
 
-Not the sickly blue-green of Orma—Mandu had seen that drug's glow often enough to carry private hatred for it.
+Not the sickly blue green of Orma—Mandu had seen that drug's glow often enough to carry private hatred for it.
 
 Not Eltech, the biotechnology that let ordinary Utiltans perform extraordinary things.
 
