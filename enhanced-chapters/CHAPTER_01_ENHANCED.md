@@ -99,13 +99,13 @@ Second one howled over the first's body. He dropped under its swing—wind tore 
 
 To his left, a scream cut through the din. Not the battle scream of a man still fighting. The other kind.
 
-Lorian—the young scout, barely twenty—was down. Three Beastmen had him. Were dragging him backward across the cold desert sand even as they hacked at him.
+Valen—the young scout, barely twenty—was down. Three Beastmen had him. Were dragging him backward across the cold desert sand even as they hacked at him.
 
-"Lorian!" Mandu was already moving. Bandar a half step behind.
+"Valen!" Mandu was already moving. Bandar a half step behind.
 
 But the gap was wrong. Too much ground. Too many bodies between.
 
-They ran. Leapt over corpses. Ducked under a wild swing. The sound Lorian was making got worse. Then stopped being a scream at all. Just a wet, breathless choking.
+They ran. Leapt over corpses. Ducked under a wild swing. The sound Valen was making got worse. Then stopped being a scream at all. Just a wet, breathless choking.
 
 By the time they closed the distance, it was done.
 
@@ -113,7 +113,7 @@ The boy's lower half was gone. Simply gone. Severed clean at the waist, the two 
 
 Mandu drove his blade through the nearest Beastman's throat. Bandar took the other two in a single sweeping arc that painted the ground black.
 
-But Lorian was already past helping.
+But Valen was already past helping.
 
 The rot was spreading.
 
@@ -121,17 +121,17 @@ Mandu had seen it before, in reports. Never this close. Never this fast.
 
 From the ragged edges of the wound, black veins were creeping upward into what was left of the boy's torso. Not blood. Something else. The alchemical poison the Beastmen carried in their claws and blades, designed to spread, to corrupt, to turn living flesh into the same twisted ruin they'd made of themselves.
 
-Lorian's eyes found Mandu's. Still aware. Still in there.
+Valen's eyes found Mandu's. Still aware. Still in there.
 
 "Sir—"
 
 "I know." Mandu knelt. Put a hand on the boy's shoulder. "You held the line. You did everything right."
 
-The black veins reached Lorian's chest. His breath went shallow. Rattling.
+The black veins reached Valen's chest. His breath went shallow. Rattling.
 
 "Antidote's in the med packs," one of the nearby soldiers said, voice high and thin. "If we—"
 
-"He doesn't have hours." Mandu didn't look up. Kept his eyes on Lorian's. "This one's too far gone."
+"He doesn't have hours." Mandu didn't look up. Kept his eyes on Valen's. "This one's too far gone."
 
 The boy nodded. Just once. Understanding.
 
@@ -143,7 +143,7 @@ Made it quick.
 
 ---
 
-When he stood, the black rot had already begun to fade from Lorian's body. The poison needed living flesh. Without it, the alchemy simply... stopped. Left behind only a boy in pieces, looking smaller in death than he ever had in life.
+When he stood, the black rot had already begun to fade from Valen's body. The poison needed living flesh. Without it, the alchemy simply... stopped. Left behind only a boy in pieces, looking smaller in death than he ever had in life.
 
 Mandu wiped his blade on his cloak. Turned to the rest of the platoon, who'd gone quiet in a circle around them.
 
@@ -151,7 +151,7 @@ Mandu wiped his blade on his cloak. Turned to the rest of the platoon, who'd gon
 
 He paused.
 
-"Lorian didn't call it because he was trying to hold. Don't be Lorian. Call it. That's an order."
+"Valen didn't call it because he was trying to hold. Don't be Valen. Call it. That's an order."
 
 The men nodded. Some of them looked at the body. Most looked away.
 
