@@ -151,7 +151,7 @@ The scarred soldier grunted. "I had one. She removed the bottom half of her clot
 
 The younger one laughed. Hard. Tried to stifle it.
 
-"These are the perks I'm looking for," the scarred soldier said. "Take me back to Karkadann."
+"These are NOT the perks I'm looking for," the scarred soldier said. "Take me back to Karkadann."
 
 They both laughed. Low. Crude. Tired.
 

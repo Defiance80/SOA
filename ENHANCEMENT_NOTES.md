@@ -132,7 +132,7 @@
   - Damascus soldiers joke about Uwell hygiene: "Smell like no one washes their ass down here."
   - "Well, the women at least are attractive."
   - "I had one. She removed the bottom half of her clothing and I swear she was growing plant life."
-  - "These are the perks I'm looking for. Take me back to Karkadann."
+  - "These are NOT the perks I'm looking for. Take me back to Karkadann."
   - **Real barracks talk** - crude, funny, establishes camaraderie
   - **Natural segue:** "Speaking of Karkadann... you really overheard Veskar before they deployed us to City 4?"
   - Shows Damascus superiority, keeps conversation HUMAN (not just exposition)
