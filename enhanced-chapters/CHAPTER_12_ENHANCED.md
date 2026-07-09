@@ -129,41 +129,55 @@ The guards relaxed after a while. Aesir had gone silent. Slumped against the bar
 
 He listened.
 
-"How long were you stationed in Karkadann?" one guard asked.
+There were four of them. Two Damascus soldiers. Two Uwell guards. Mixed detail.
 
-The scarred one grunted. "Two years. Before they reassigned me to prisoner transport."
+One of the Damascus soldiers—scarred face, grey uniform with crimson trim—shifted in his seat.
 
-"Better than the front lines."
+"Glad this run's almost over," he said. "Three days underground. I miss the sky."
 
-"Barely." The scarred guard shifted. "At least in Karkadann you see the brass. Ramstock himself walked the war rooms twice a week."
+One of the Uwell guards laughed. "You get used to it. Born down here. Never knew anything else."
+
+"How long you been topside?" the other Uwell guard asked.
+
+The scarred Damascus soldier grunted. "Two years in Karkadann. Then they sent me here. Special assignment."
 
 Aesir's eyes opened. Just a sliver. He didn't move.
 
-"You ever see him up close?"
+"Karkadann," the Uwell guard said. Voice impressed. "The capital. You see Ramstock?"
 
-"Once. Veskar was with him. The serpent himself." The guard's voice lowered. Respectful. Wary. "Heard them talking strategy. Ramstock doesn't waste words. Said the boy—the one we're transporting now—was Indexto stock. Wanted him intact."
+"Twice a week," the Damascus soldier said. Casual. "He walks the war rooms. Checks progress. Man doesn't waste words."
 
-Aesir's pulse quickened.
+The second Damascus soldier spoke. Younger. Cleaner uniform. "You hear about the briefing last week? Veskar was there."
 
-"Indexto? I thought they were extinct."
+The scarred one nodded. "The serpent himself. Overheard some of it. They were talking about this prisoner." He jerked his thumb toward the cage. "Said he was Indexto stock. Wanted him delivered intact."
 
-"So did everyone else. But Ramstock's sources are solid. If he says the boy's valuable, he's valuable."
+Silence.
+
+"Indexto?" The Uwell guard's voice dropped. "Thought they were extinct."
+
+"So did everyone," the scarred soldier said. "But Ramstock's intel is solid. If he says the boy's valuable, he's valuable."
 
 ---
 
-The second guard laughed. "And Uwell thinks they're in control. Nidus thinks she brokered an alliance."
+The younger Damascus soldier laughed. "Your Madam Nidus thinks she's in control. Thinks she brokered an alliance."
 
-"She's useful," the scarred guard said. "For now. Ramstock's patient. Let her think she's negotiating. Once we control the Orma vaults, Uwell's leverage disappears."
+One of the Uwell guards bristled. "She did. Damascus needed access to the Orma network. We provided it."
 
-"The vaults in Ankt?"
+"She's useful," the scarred soldier said. Not unkind. Matter of fact. "For now. Ramstock's patient. He'll let her think she's negotiating. Once we control the trade routes, Uwell's leverage disappears."
 
-"Those are ruins. The real supply is what flows through Uwell's network. Once we monopolize the trade routes, Damascus expands. Unchallenged."
+The Uwell guard frowned. "The vaults in Ankt are ruins. The real supply flows through our network."
 
-Silence for a moment. Just the rhythm of hooves. The hum of the pacer.
+"Exactly," the younger Damascus soldier said. "And once Damascus monopolizes those routes, we expand. Unchallenged."
 
-"What about Utilta?"
+The Uwell guards went quiet.
 
-"Sealed city won't stay sealed forever. Ramstock's already working the inside. Just a matter of time."
+The scarred soldier continued. "It's not just about Uwell. Ramstock's already working Utilta. The sealed city. Getting people inside."
+
+"Utilta's capital of Quandrum," the younger soldier added. "Once we have access there, the whole continent opens up."
+
+Silence. Just the rhythm of hooves. The hum of the pacer.
+
+One of the Uwell guards shifted uncomfortably. Said nothing.
 
 ---
 
@@ -451,19 +465,23 @@ Where nightmares would find him.
 2. **Active Aesir throughout** - Screaming, struggling, listening, escaping, fighting
 3. **Suppression drug + sedative** - Not just numbness, but inebriation/impairment; Aesir at 30-40% capacity, sluggish thoughts, blurred vision
 4. **Already in Uwell** - Pacer descended long ago; Aesir breaks free while deep in underground city (not escaping INTO Uwell)
-5. **Overheard conspiracy** - Natural soldier dialogue (Karkadann, Ramstock, Veskar, Orma vaults, Uwell manipulation)
-6. **Escape fight** - Desperate, clumsy, barely functional; incapacitates guards through luck/adrenaline more than skill
-7. **Disorientation** - Aesir has never been to Uwell, unfamiliar with underground roads, lost in twisted tunnels
-8. **Borum's capture** - Easier than usual; Aesir at 30-40% capacity, drugged/darkened state; Borum's men outperform him effortlessly, "easier than drunks from taverns"
-9. **Borum's dismissal** - Not impressed ("drugged, disoriented, half-dead already"), leaves for "serious matters"
+5. **Mixed guard detail** - 2 Damascus soldiers + 2 Uwell guards (alliance cooperation); Damascus soldiers share intel from Karkadann briefings; Uwell guards listen/ask questions
+6. **Overheard conspiracy** - Damascus soldiers discuss what they heard (Ramstock war rooms, Veskar briefing, "Indexto stock," Nidus manipulation, Orma monopoly, Utilta infiltration); Uwell guards uncomfortable but complicit
+7. **Escape fight** - Desperate, clumsy, barely functional; incapacitates guards through luck/adrenaline more than skill
+8. **Disorientation** - Aesir has never been to Uwell, unfamiliar with underground roads, lost in twisted tunnels
+9. **Borum's capture** - Easier than usual; Aesir at 30-40% capacity, drugged/darkened state; Borum's men outperform him effortlessly, "easier than drunks from taverns"
+10. **Borum's dismissal** - Not impressed ("drugged, disoriented, half-dead already"), leaves for "serious matters"
 
 ### **Damascus Lore Sprinkled:**
-- Karkadann = capital (war rooms, Ramstock's base)
-- Veskar = "the serpent" (Ramstock's right hand)
-- Indexto stock = valuable, keep intact
-- Nidus thinks she's in control (she's not)
-- Orma vault monopoly = Damascus strategy
-- Utilta infiltration already underway
+- **Mixed guard detail** - Damascus soldiers + Uwell guards (alliance cooperation)
+- **Karkadann** = Damascus capital (war rooms, Ramstock's base)
+- **Veskar** = "the serpent" (briefings, Ramstock's right hand)
+- **Indexto stock** = valuable, keep intact (from Ramstock's orders)
+- **Nidus thinks she's in control** (Damascus soldiers casually dismiss this)
+- **Orma monopoly** = Damascus strategy (once they control trade routes, Uwell's leverage disappears)
+- **Utilta infiltration** = already underway ("getting people inside")
+- **Damascus goal** = Use Uwell to access Utilta (Quandrum capital), then expand unchallenged
+- **Uwell guards uncomfortable** = realize they're junior partners, say nothing
 
 ### **Word Count:**
 ~4,200 words

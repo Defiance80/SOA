@@ -125,14 +125,17 @@
 - Guards tell him to shut up
 
 **2. OVERHEARING (Conspiracy Fragments)**
-- Aesir pretends unconscious, listens to Damascus soldiers talking
-- Soldier recounts being stationed in **Karkadann** (Damascus capital)
-- Recalls Veskar meeting with Ramstock ("the Big Guy") in war rooms
-- Key intel overheard:
-  - "The boy is Indexto stock, keep him intact"
-  - "Nidus thinks she's in control" (Uwell manipulation)
-  - Orma vault monopoly strategy
-  - Utilta infiltration already underway
+- **Mixed guard detail:** 2 Damascus soldiers + 2 Uwell guards (alliance cooperation)
+- Damascus soldiers discussing intel from Karkadann briefings
+- Uwell guards listening, asking questions (junior partners in alliance)
+- Damascus soldier: stationed in **Karkadann** (capital), saw Ramstock in war rooms
+- Overheard Veskar briefing about "Indexto stock, deliver intact"
+- Key intel revealed:
+  - "Nidus thinks she's in control" (Damascus dismisses this casually)
+  - Orma monopoly strategy (once routes controlled, Uwell leverage disappears)
+  - Utilta infiltration underway ("getting people inside")
+  - **Damascus goal:** Use Uwell to access Utilta (Quandrum capital) → expand unchallenged
+- Uwell guards uncomfortable, say nothing (realize they're being used)
 - Aesir commits it to memory, rage building
 
 **3. ESCAPE (Desperate Fight)**
@@ -162,10 +165,16 @@
 
 **Damascus Lore (Natural Delivery):**
 - **Karkadann** - capital city, war rooms, Ramstock's base
-- **Ramstock** - "the Big Guy," walks war rooms twice weekly, patient strategist
-- **Veskar** - "the serpent" (soldiers speak with wary respect)
-- **Strategy** - Orma vault monopoly, Uwell manipulation, Utilta infiltration
-- **Nidus deception** - thinks she's negotiating as equals (Damascus humoring her)
+- **Ramstock** - walks war rooms twice weekly, patient strategist
+- **Veskar** - "the serpent," conducts briefings
+- **Damascus Strategy (Revealed):**
+  - NOT occupying Uwell with troops en masse
+  - Lending officers + minimal support only
+  - Using Uwell as stepping stone to Utilta (Quandrum capital)
+  - Goal: Orma monopoly → control trade routes → Uwell leverage disappears
+  - Infiltration over invasion (more insidious)
+- **Nidus deception** - thinks she brokered alliance as equals (Damascus humoring her)
+- **Mixed guard details** - Damascus + Uwell cooperation (shows alliance dynamic)
 
 **Suppression Tonic + Sedative:**
 - Damascus specialty drug combination
