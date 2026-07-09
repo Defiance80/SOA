@@ -128,12 +128,14 @@
 - **Guard positioning:** 2 Damascus soldiers up front (controlling pacer), 2 Uwell guards in back (cargo watch)
 - **Damascus private conversation:** Think Aesir unconscious, speak quietly, Uwell guards can't hear
 - Aesir's cage close to front (overhears Damascus soldiers)
-- **COMEDIC RELIEF (grounded humor):**
-  - Damascus soldiers joke about Uwell hygiene: "Born down here. Never seen a sunrise. Probably don't even notice the smell anymore."
-  - "You think that's why they all look so pale? Like mushrooms?"
-  - "Mushrooms with swords."
-  - "Three days down here and I can't tell what smells worse—the tunnels or them."
-  - Light ribbing shows Damascus superiority, keeps conversation HUMAN (not just exposition)
+- **COMEDIC RELIEF (crude soldier humor):**
+  - Damascus soldiers joke about Uwell hygiene: "Smell like no one washes their ass down here."
+  - "Well, the women at least are attractive."
+  - "I had one. She removed the bottom half of her clothing and I swear she was growing plant life."
+  - "These are the perks I'm looking for. Take me back to Karkadann."
+  - **Real barracks talk** - crude, funny, establishes camaraderie
+  - **Natural segue:** "Speaking of Karkadann... you really overheard Veskar before they deployed us to City 4?"
+  - Shows Damascus superiority, keeps conversation HUMAN (not just exposition)
 - **Above their pay grade:** Scarred soldier eavesdropped outside war room, overheard Veskar + Ramstock
 - **Chain of command:** Lord Veskar = one of Ramstock's 5 generals (terrifying authority figure)
 - **Indextos = mythological:** Like Egyptian gods (Osiris, Isis, Amun-Ra) - extinct race, folklore, "what if someone said they know one?"

@@ -139,25 +139,35 @@ The Damascus soldiers spoke quietly. Thought he was unconscious.
 
 "Two more hours to the main city," one said. Scarred face. Grey uniform with crimson trim. Older. "Straight to Nidus's compound. Then we're done with this."
 
-"Good," the other replied. Younger. Less scarred. "Three days underground. I want to see the sky again. Breathe air that doesn't taste like stone."
+"Good," the other replied. Younger. Less scarred. "Three days underground. I want to see the sky again."
 
-The scarred one snorted. "At least we get to leave. The Uwell guards back there?" He jerked his thumb toward the rear of the pacer. "Born down here. Never seen a sunrise. Probably don't even notice the smell anymore."
+The scarred one snorted. "At least we get to leave. The Uwell guards back there?" He jerked his thumb toward the rear of the pacer. "Smell like no one washes their ass down here."
 
-The younger soldier laughed. Quiet. "You think that's why they all look so pale? Like mushrooms?"
+The younger soldier chuckled.
 
-"Mushrooms with swords." The scarred one grinned. "Three days down here and I can't tell what smells worse—the tunnels or them."
+"Well," he said. "The women at least are attractive."
 
-They both chuckled. Low. Tired.
+The scarred soldier grunted. "I had one. She removed the bottom half of her clothing and I swear she was growing plant life."
+
+The younger one laughed. Hard. Tried to stifle it.
+
+"These are the perks I'm looking for," the scarred soldier said. "Take me back to Karkadann."
+
+They both laughed. Low. Crude. Tired.
 
 Silence for a moment. Just the rhythm of hooves. The hum of the pacer.
 
-Then the scarred one spoke again. Voice lower. Careful.
+Then the younger one spoke. Voice lower. More serious.
 
-"You hear what Lord Veskar said? In the war room last week?"
+"Speaking of Karkadann." He shifted. "You really overheard Veskar? Before they deployed us to City 4?"
 
-The younger soldier shifted. "About the prisoner?"
+The scarred soldier's humor faded. He nodded.
 
-"About what he is." The scarred soldier glanced back at the cage. Aesir didn't move. "I was outside the door. Heard him talking to Ramstock. Said the boy's Indexto stock."
+"Yeah," the scarred soldier said quietly. "I was outside the war room. Day before we got our orders for City 4." He glanced back at the cage. Aesir didn't move. "Heard Veskar talking to Ramstock. About this prisoner."
+
+"What'd they say?"
+
+The scarred soldier's voice dropped. "Said the boy's Indexto stock."
 
 Silence.
 
