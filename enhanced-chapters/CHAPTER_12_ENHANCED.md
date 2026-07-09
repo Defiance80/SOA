@@ -129,55 +129,73 @@ The guards relaxed after a while. Aesir had gone silent. Slumped against the bar
 
 He listened.
 
-There were four of them. Two Damascus soldiers. Two Uwell guards. Mixed detail.
+There were four of them. Two Damascus soldiers up front, controlling the draft beast and navigating. Two Uwell guards in the back, watching the cargo.
 
-One of the Damascus soldiers—scarred face, grey uniform with crimson trim—shifted in his seat.
+Aesir's cage was bolted close to the front. Close enough to hear.
 
-"Glad this run's almost over," he said. "Three days underground. I miss the sky."
+The Damascus soldiers spoke quietly. Thought he was unconscious.
 
-One of the Uwell guards laughed. "You get used to it. Born down here. Never knew anything else."
+"Two more hours to the main city," one said. Scarred face. Grey uniform with crimson trim. "Straight to Nidus's compound."
 
-"How long you been topside?" the other Uwell guard asked.
+"Good," the other replied. Younger. Cleaner. "Three days underground is enough. I miss the sky."
 
-The scarred Damascus soldier grunted. "Two years in Karkadann. Then they sent me here. Special assignment."
+The scarred one grunted agreement. "Briefing said deliver him intact. No mistakes."
+
+"Ramstock's orders?"
+
+"Through Veskar. Came down from Karkadann last week." The scarred soldier's voice lowered. "The boy's Indexto stock. Rare bloodline. Genetic markers they thought were extinct."
 
 Aesir's eyes opened. Just a sliver. He didn't move.
 
-"Karkadann," the Uwell guard said. Voice impressed. "The capital. You see Ramstock?"
+"Valuable?"
 
-"Twice a week," the Damascus soldier said. Casual. "He walks the war rooms. Checks progress. Man doesn't waste words."
+"Extremely. Ramstock wants him studied. Something about ancient abilities. Psionic potential."
 
-The second Damascus soldier spoke. Younger. Cleaner uniform. "You hear about the briefing last week? Veskar was there."
+The younger soldier laughed softly. "Nidus thinks she's running this operation."
 
-The scarred one nodded. "The serpent himself. Overheard some of it. They were talking about this prisoner." He jerked his thumb toward the cage. "Said he was Indexto stock. Wanted him delivered intact."
+"Let her think it," the scarred one said. "Ramstock's patient. Once we're positioned in Utilta, Uwell becomes irrelevant anyway."
 
-Silence.
+"The sealed city's a tough target."
 
-"Indexto?" The Uwell guard's voice dropped. "Thought they were extinct."
-
-"So did everyone," the scarred soldier said. "But Ramstock's intel is solid. If he says the boy's valuable, he's valuable."
-
----
-
-The younger Damascus soldier laughed. "Your Madam Nidus thinks she's in control. Thinks she brokered an alliance."
-
-One of the Uwell guards bristled. "She did. Damascus needed access to the Orma network. We provided it."
-
-"She's useful," the scarred soldier said. Not unkind. Matter of fact. "For now. Ramstock's patient. He'll let her think she's negotiating. Once we control the trade routes, Uwell's leverage disappears."
-
-The Uwell guard frowned. "The vaults in Ankt are ruins. The real supply flows through our network."
-
-"Exactly," the younger Damascus soldier said. "And once Damascus monopolizes those routes, we expand. Unchallenged."
-
-The Uwell guards went quiet.
-
-The scarred soldier continued. "It's not just about Uwell. Ramstock's already working Utilta. The sealed city. Getting people inside."
-
-"Utilta's capital of Quandrum," the younger soldier added. "Once we have access there, the whole continent opens up."
+"Already working it. Getting people inside. It's just a matter of time. Once Utilta falls, whole Quandrum continent opens up."
 
 Silence. Just the rhythm of hooves. The hum of the pacer.
 
-One of the Uwell guards shifted uncomfortably. Said nothing.
+---
+
+Aesir's mind raced.
+
+*Indexto stock. Genetic markers. Psionic potential.*
+
+He didn't understand. Didn't know what Indexto meant. Why his blood mattered.
+
+*Utilta. My home. They're planning something.*
+
+*Nidus. The name keeps coming up. Whoever she is, she doesn't know the full plan.*
+
+He committed it to memory. Every word. Every fragment.
+
+He'd figure out what it meant later.
+
+If he survived.
+
+---
+
+Behind the pacer, the two Uwell guards talked quietly.
+
+"Longest transport I've done," one said. "Three days straight."
+
+"Madam Nidus must want this one badly. High-value prisoner."
+
+"Wonder what he did."
+
+"Does it matter? We deliver him. She handles the rest."
+
+They didn't know. Didn't hear the Damascus conversation up front.
+
+Just following orders.
+
+Delivering a package they didn't understand.
 
 ---
 
@@ -473,15 +491,16 @@ Where nightmares would find him.
 10. **Borum's dismissal** - Not impressed ("drugged, disoriented, half-dead already"), leaves for "serious matters"
 
 ### **Damascus Lore Sprinkled:**
-- **Mixed guard detail** - Damascus soldiers + Uwell guards (alliance cooperation)
-- **Karkadann** = Damascus capital (war rooms, Ramstock's base)
-- **Veskar** = "the serpent" (briefings, Ramstock's right hand)
-- **Indexto stock** = valuable, keep intact (from Ramstock's orders)
-- **Nidus thinks she's in control** (Damascus soldiers casually dismiss this)
-- **Orma monopoly** = Damascus strategy (once they control trade routes, Uwell's leverage disappears)
-- **Utilta infiltration** = already underway ("getting people inside")
-- **Damascus goal** = Use Uwell to access Utilta (Quandrum capital), then expand unchallenged
-- **Uwell guards uncomfortable** = realize they're junior partners, say nothing
+- **Guard positioning** - 2 Damascus soldiers up front (controlling pacer), 2 Uwell guards in back (cargo watch)
+- **Damascus conversation private** - Think Aesir unconscious, speak quietly, Uwell guards can't hear
+- **Karkadann briefing** - Orders came through Veskar from Ramstock (Damascus capital)
+- **Indexto stock** - "Rare bloodline, genetic markers, extinct"
+- **Psionic potential** - "Ancient abilities, wants him studied"
+- **Nidus deception** - "Let her think she's running this"
+- **Utilta infiltration** - "Already getting people inside, just a matter of time"
+- **Damascus goal** - Positioned in Utilta → Uwell becomes irrelevant → Quandrum continent opens
+- **Aesir's confusion** - Catches fragments, doesn't understand context ("What does Indexto mean?")
+- **Uwell guards in dark** - Just know "high-value prisoner," following orders, don't know Damascus plan
 
 ### **Word Count:**
 ~4,200 words

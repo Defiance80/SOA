@@ -125,18 +125,20 @@
 - Guards tell him to shut up
 
 **2. OVERHEARING (Conspiracy Fragments)**
-- **Mixed guard detail:** 2 Damascus soldiers + 2 Uwell guards (alliance cooperation)
-- Damascus soldiers discussing intel from Karkadann briefings
-- Uwell guards listening, asking questions (junior partners in alliance)
-- Damascus soldier: stationed in **Karkadann** (capital), saw Ramstock in war rooms
-- Overheard Veskar briefing about "Indexto stock, deliver intact"
-- Key intel revealed:
-  - "Nidus thinks she's in control" (Damascus dismisses this casually)
-  - Orma monopoly strategy (once routes controlled, Uwell leverage disappears)
-  - Utilta infiltration underway ("getting people inside")
-  - **Damascus goal:** Use Uwell to access Utilta (Quandrum capital) → expand unchallenged
-- Uwell guards uncomfortable, say nothing (realize they're being used)
-- Aesir commits it to memory, rage building
+- **Guard positioning:** 2 Damascus soldiers up front (controlling pacer), 2 Uwell guards in back (cargo watch)
+- **Damascus private conversation:** Think Aesir unconscious, speak quietly, Uwell guards can't hear
+- Aesir's cage close to front (overhears Damascus soldiers)
+- Damascus discussing Karkadann briefing (orders from Veskar/Ramstock)
+- Key intel Aesir overhears:
+  - "Indexto stock - rare bloodline, genetic markers, extinct"
+  - "Psionic potential, ancient abilities, wants him studied"
+  - "Nidus thinks she's running this - let her think it"
+  - "Positioned in Utilta → Uwell becomes irrelevant"
+  - "Already getting people inside Utilta, just a matter of time"
+  - **Damascus goal:** Use Uwell → access Utilta (Quandrum capital) → expand unchallenged
+- **Aesir's confusion:** Catches fragments, doesn't understand context ("What does Indexto mean? Why is my blood valuable?")
+- **Uwell guards in dark:** Just know "high-value prisoner," following orders, unaware of Damascus plan
+- Aesir commits fragments to memory (will make sense later in Ch 14)
 
 **3. ESCAPE (Desperate Fight)**
 - Suppression drug shifts to inebriation (30-40% power capacity, impaired)
