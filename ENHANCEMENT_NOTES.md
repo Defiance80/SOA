@@ -128,17 +128,23 @@
 - **Guard positioning:** 2 Damascus soldiers up front (controlling pacer), 2 Uwell guards in back (cargo watch)
 - **Damascus private conversation:** Think Aesir unconscious, speak quietly, Uwell guards can't hear
 - Aesir's cage close to front (overhears Damascus soldiers)
-- Damascus discussing Karkadann briefing (orders from Veskar/Ramstock)
+- **Above their pay grade:** Scarred soldier eavesdropped outside war room, overheard Veskar + Ramstock
+- **Chain of command:** Lord Veskar = one of Ramstock's 5 generals (terrifying authority figure)
+- **Indextos = mythological:** Like Egyptian gods (Osiris, Isis, Amun-Ra) - extinct race, folklore, "what if someone said they know one?"
+- **Fear dynamics:**
+  - Younger soldier laughs skeptically: "Those are stories. Myths."
+  - Scarred soldier snaps: "You think Lord Veskar is lying!?"
+  - Younger soldier gulps, backs down: "No, not at all. This is insane information. I don't know what to think. I don't really know enough about the subject matter."
+- **Childhood folklore:** "My grandmother said Indextos had wild beasts that would devour you. Powers that could rip the sky open. But I was a kid."
+- **Taboo/occult vibe:** Discussing conspiracy theories, misinformed info above their understanding
 - Key intel Aesir overhears:
-  - "Indexto stock - rare bloodline, genetic markers, extinct"
-  - "Psionic potential, ancient abilities, wants him studied"
-  - "Nidus thinks she's running this - let her think it"
-  - "Positioned in Utilta → Uwell becomes irrelevant"
-  - "Already getting people inside Utilta, just a matter of time"
-  - **Damascus goal:** Use Uwell → access Utilta (Quandrum capital) → expand unchallenged
-- **Aesir's confusion:** Catches fragments, doesn't understand context ("What does Indexto mean? Why is my blood valuable?")
-- **Uwell guards in dark:** Just know "high-value prisoner," following orders, unaware of Damascus plan
-- Aesir commits fragments to memory (will make sense later in Ch 14)
+  - "Indexto stock - genetic markers, bloodline extinct two hundred years ago"
+  - "Lord Veskar believes it's real. Ramstock wants him studied."
+  - "Nidus thinks she's running this. Once positioned in Utilta, Uwell becomes expendable."
+  - "Getting people inside Utilta. Slowly. Carefully. Once sealed city falls, Quandrum opens."
+- **Aesir's existential confusion:** "What was he? If soldiers who served under one of Ramstock's five generals were afraid of what he was..."
+- **Uwell guards in dark:** Just know "high-value prisoner," unaware of Damascus plan or Indexto mythology
+- Aesir commits fragments to memory (will click in Ch 14)
 
 **3. ESCAPE (Desperate Fight)**
 - Suppression drug shifts to inebriation (30-40% power capacity, impaired)

@@ -135,49 +135,91 @@ Aesir's cage was bolted close to the front. Close enough to hear.
 
 The Damascus soldiers spoke quietly. Thought he was unconscious.
 
-"Two more hours to the main city," one said. Scarred face. Grey uniform with crimson trim. "Straight to Nidus's compound."
+---
 
-"Good," the other replied. Younger. Cleaner. "Three days underground is enough. I miss the sky."
+"Two more hours to the main city," one said. Scarred face. Grey uniform with crimson trim. Older. "Straight to Nidus's compound. Then we're done with this."
 
-The scarred one grunted agreement. "Briefing said deliver him intact. No mistakes."
+"Good," the other replied. Younger. Less scarred. "Three days underground. I want to see the sky again."
 
-"Ramstock's orders?"
+Silence for a moment. Just the rhythm of hooves. The hum of the pacer.
 
-"Through Veskar. Came down from Karkadann last week." The scarred soldier's voice lowered. "The boy's Indexto stock. Rare bloodline. Genetic markers they thought were extinct."
+Then the scarred one spoke again. Voice lower. Careful.
+
+"You hear what Lord Veskar said? In the war room last week?"
+
+The younger soldier shifted. "About the prisoner?"
+
+"About what he is." The scarred soldier glanced back at the cage. Aesir didn't move. "I was outside the door. Heard him talking to Ramstock. Said the boy's Indexto stock."
+
+Silence.
+
+Then the younger soldier laughed. Nervous. Disbelieving.
+
+"Indexto? Come on. Those are stories. Myths."
+
+The scarred soldier's voice went cold. "You think Lord Veskar is lying?"
+
+The younger soldier's laugh died. He swallowed. Hard.
+
+"No. No, not at all. I just—" He exhaled. "This is insane information. I don't know what to think. I don't really know enough about the subject matter."
+
+"None of us do," the scarred one said. "But Veskar's one of Ramstock's five generals. You think they'd go through all this trouble for nothing? For a story?"
+
+The younger soldier was quiet for a moment.
+
+"I used to hear stories," he said finally. "As a kid. About the Indextos. They were like... gods. Or demons. Depending on who was telling it. My grandmother said they had wild beasts that would devour you. Creatures that obeyed their will. Powers that could rip the sky open."
+
+"Sounds like a bedtime story to keep children in line."
+
+"That's what I thought. But I was a kid." The younger soldier's voice was uncertain now. "You're saying it's real? That this boy—"
+
+"I'm saying Lord Veskar believes it's real. And Ramstock wants him studied. Wants to know what he is. What he can do." The scarred soldier's voice dropped to a whisper. "They said something about genetic markers. Bloodline. Things they thought went extinct two hundred years ago."
 
 Aesir's eyes opened. Just a sliver. He didn't move.
 
-"Valuable?"
+"Extinct like the Indextos?"
 
-"Extremely. Ramstock wants him studied. Something about ancient abilities. Psionic potential."
+"Exactly like the Indextos."
 
-The younger soldier laughed softly. "Nidus thinks she's running this operation."
+Silence.
 
-"Let her think it," the scarred one said. "Ramstock's patient. Once we're positioned in Utilta, Uwell becomes irrelevant anyway."
+"What else did Veskar say?"
 
-"The sealed city's a tough target."
+The scarred soldier hesitated. Then: "That Nidus thinks she's running this operation. That we're letting her think it. Once we're positioned in Utilta, Uwell becomes... expendable."
 
-"Already working it. Getting people inside. It's just a matter of time. Once Utilta falls, whole Quandrum continent opens up."
+"Utilta's sealed. Hard target."
 
-Silence. Just the rhythm of hooves. The hum of the pacer.
+"Already working it. Veskar said they're getting people inside. Slowly. Carefully. Once the sealed city falls, the whole Quandrum continent opens to us."
+
+The younger soldier said nothing. Just stared ahead at the dark tunnel.
 
 ---
 
 Aesir's mind raced.
 
-*Indexto stock. Genetic markers. Psionic potential.*
+*Indexto.*
 
-He didn't understand. Didn't know what Indexto meant. Why his blood mattered.
+He'd never heard the word before. Didn't know what it meant.
 
-*Utilta. My home. They're planning something.*
+But they were talking about him. About his blood. His lineage.
 
-*Nidus. The name keeps coming up. Whoever she is, she doesn't know the full plan.*
+*Like gods. Or demons. Powers that could rip the sky open.*
+
+What was he?
+
+*Genetic markers. Extinct two hundred years ago.*
+
+His parents had never told him. Never said anything about where they came from. Who they were.
+
+*Utilta. My home. They're getting people inside.*
 
 He committed it to memory. Every word. Every fragment.
 
-He'd figure out what it meant later.
+Even the fear in their voices.
 
-If he survived.
+If soldiers who served under one of Ramstock's five generals were afraid of what he was—
+
+What did that make him?
 
 ---
 
@@ -493,14 +535,17 @@ Where nightmares would find him.
 ### **Damascus Lore Sprinkled:**
 - **Guard positioning** - 2 Damascus soldiers up front (controlling pacer), 2 Uwell guards in back (cargo watch)
 - **Damascus conversation private** - Think Aesir unconscious, speak quietly, Uwell guards can't hear
-- **Karkadann briefing** - Orders came through Veskar from Ramstock (Damascus capital)
-- **Indexto stock** - "Rare bloodline, genetic markers, extinct"
-- **Psionic potential** - "Ancient abilities, wants him studied"
-- **Nidus deception** - "Let her think she's running this"
-- **Utilta infiltration** - "Already getting people inside, just a matter of time"
-- **Damascus goal** - Positioned in Utilta → Uwell becomes irrelevant → Quandrum continent opens
-- **Aesir's confusion** - Catches fragments, doesn't understand context ("What does Indexto mean?")
-- **Uwell guards in dark** - Just know "high-value prisoner," following orders, don't know Damascus plan
+- **Above their pay grade** - Scarred soldier overheard Veskar + Ramstock in war room (eavesdropping outside door)
+- **Chain of command** - Lord Veskar = one of Ramstock's 5 generals (terrifying authority)
+- **Indextos = mythological** - Like Egyptian gods (Osiris, Isis, Amun-Ra) - heard of them, thought extinct, "what if someone said they know one?"
+- **Skepticism → Fear:** Younger soldier laughs ("Those are stories"), scarred soldier snaps ("You think Lord Veskar is lying!?"), younger gulps and backs down
+- **Childhood folklore** - "My grandmother said Indextos had wild beasts that would devour you. Powers that could rip the sky open. But I was a kid."
+- **Taboo/occult vibe** - Discussing conspiracy theories, misinformed info above their understanding
+- **Genetic markers** - "Bloodline thought extinct two hundred years ago"
+- **Nidus deception** - "Let her think she's running this. Once positioned in Utilta, Uwell becomes expendable."
+- **Utilta infiltration** - "Getting people inside. Slowly. Carefully. Once sealed city falls, Quandrum opens."
+- **Aesir's existential terror** - "What was he? If soldiers who served under one of Ramstock's five generals were afraid..."
+- **Uwell guards in dark** - Just know "high-value prisoner," unaware of Damascus plan or Indexto mythology
 
 ### **Word Count:**
 ~4,200 words
