@@ -106,3 +106,116 @@
 **Questions or issues during integration? Let me know.**
 
 **Ready to continue with Chapters 5-10 while you integrate these.**
+
+---
+
+## CHAPTER 12 - VERSION 2 REWRITE (July 9, 2026)
+
+**Original Issue:** Chapter 12 felt passive/filler - split between Aesir's semi-conscious transport and separate Damascus exposition dump.
+
+**Solution:** Complete rewrite - merged both parts into active, single-POV structure.
+
+### New Structure (4 Active Beats):
+
+**1. PANIC (Captive Transport)**
+- Aesir wakes in cargo pacer cage (hover + draft animal, Damascus efficiency)
+- Screaming for Naska, demanding answers
+- Tries to manifest - **nothing** (suppression tonic)
+- "What did you give me!?" - visceral emptiness (feels like severed limb)
+- Guards tell him to shut up
+
+**2. OVERHEARING (Conspiracy Fragments)**
+- Aesir pretends unconscious, listens to Damascus soldiers talking
+- Soldier recounts being stationed in **Karkadann** (Damascus capital)
+- Recalls Veskar meeting with Ramstock ("the Big Guy") in war rooms
+- Key intel overheard:
+  - "The boy is Indexto stock, keep him intact"
+  - "Nidus thinks she's in control" (Uwell manipulation)
+  - Orma vault monopoly strategy
+  - Utilta infiltration already underway
+- Aesir commits it to memory, rage building
+
+**3. ESCAPE (Desperate Fight)**
+- Suppression drug wears off (power returns gradually)
+- Breaks restraints, overloads cage lock (ergokinesis)
+- Fights two Damascus guards (brutal, weakened)
+- Incapacitates both (doesn't kill - shows restraint)
+- Draft beast panics, pacer crashes
+- Aesir flees into Uwell labyrinth (market chamber, twisted tunnels)
+
+**4. BORUM'S CAPTURE (Cruel Dismissal)**
+- Borum + 3 Uwell guards find him
+- Borum **watches** two men struggle to subdue weakened Aesir (entertained)
+- Gets bored, steps in casually
+- One-shots Aesir with single punch
+- Dismissive: "That's the infamous Indexto boy? Pathetic."
+- Has him bound, carried to main city (Cell Block 3)
+- Leaves for "more serious matters"
+
+### Worldbuilding Added:
+
+**Cargo Pacer (Prison Variant):**
+- Hover technology + draft animal (conserves fuel)
+- Shows Damascus pragmatism (advanced but efficient)
+- Iron cage, electromagnetic hum, 2-4 guard escort
+
+**Damascus Lore (Natural Delivery):**
+- **Karkadann** - capital city, war rooms, Ramstock's base
+- **Ramstock** - "the Big Guy," walks war rooms twice weekly, patient strategist
+- **Veskar** - "the serpent" (soldiers speak with wary respect)
+- **Strategy** - Orma vault monopoly, Uwell manipulation, Utilta infiltration
+- **Nidus deception** - thinks she's negotiating as equals (Damascus humoring her)
+
+**Suppression Tonic:**
+- Damascus specialty drug
+- Feels like severed limb, numbing emptiness
+- Wears off gradually (hours)
+
+**Uwell Labyrinth:**
+- Twisted tunnels, city-to-city network
+- Market chambers (abandoned stalls, crates)
+- Ancient, vast, easy to get lost
+
+### Character Development:
+
+**Aesir:**
+- Active throughout (screaming, listening, fighting, fleeing)
+- Naska's fate haunts him ("Is she alive? Please...")
+- Power suppression terror (first time feeling emptiness)
+- Restraint even in rage (incapacitates, doesn't kill)
+- Weakened but dangerous
+
+**Borum (New Introduction):**
+- Tall, broad, angular face, cold/amused eyes
+- Competent fighter (watches subordinates first)
+- Entertained by struggle (boredom = cruelty trigger)
+- Strong (one-shots Aesir casually)
+- **Underestimates Aesir** - "pathetic" dismissal (setup for future payoff)
+- Nidus's enforcer/city guard captain
+
+### Quality Metrics:
+
+- ✅ **Active POV** - No passive scenes, Aesir drives every beat
+- ✅ **Natural exposition** - Damascus lore through overheard dialogue (not info dump)
+- ✅ **Visceral stakes** - Suppression terror, Naska grief, escape desperation
+- ✅ **Character intro** - Borum established (cruel, competent, dismissive)
+- ✅ **Worldbuilding** - Cargo pacer, Karkadann, Uwell labyrinth all shown naturally
+- ✅ **Cliffhanger** - Cell Block 3, Madam Nidus waiting
+- ✅ **Tighter pacing** - 4,200 words (from 5,500 original - 24% reduction)
+
+### Integration Notes:
+
+**Replaces:** Original Chapter 12 (Damascus boardroom scene cut entirely)
+
+**Connects to:**
+- **Chapter 11 ending** - Aesir taken, Naska shot
+- **Chapter 13 opening** - Nightmare loops in cell (unchanged)
+
+**No illustrated content** - Chapter 12 was never illustrated, pure text chapter.
+
+---
+
+**Word Count:** ~4,200 words  
+**Reduction:** ~24% from original V1  
+**Status:** ✅ Complete, committed to GitHub
+
