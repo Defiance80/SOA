@@ -136,21 +136,22 @@
 - Aesir commits it to memory, rage building
 
 **3. ESCAPE (Desperate Fight)**
-- Suppression drug wears off (power returns gradually)
-- Breaks restraints, overloads cage lock (ergokinesis)
-- Fights two Damascus guards (brutal, weakened)
-- Incapacitates both (doesn't kill - shows restraint)
+- Suppression drug shifts to inebriation (30-40% power capacity, impaired)
+- Breaks restraints barely (sluggish, unfocused energy)
+- Fights two Damascus guards (clumsy, desperate, luck-based)
+- Incapacitates both through adrenaline/luck more than skill
 - Draft beast panics, pacer crashes
-- Aesir flees into Uwell labyrinth (market chamber, twisted tunnels)
+- Aesir runs into Uwell roads (ALREADY in Uwell, unfamiliar/lost)
 
 **4. BORUM'S CAPTURE (Cruel Dismissal)**
-- Borum + 3 Uwell guards find him
-- Borum **watches** two men struggle to subdue weakened Aesir (entertained)
-- Gets bored, steps in casually
-- One-shots Aesir with single punch
-- Dismissive: "That's the infamous Indexto boy? Pathetic."
+- Borum + 3 Uwell guards find him (lost in underground roads)
+- Aesir at 30-40% capacity, disoriented, never been to Uwell
+- Borum's men outperform him EASILY (no real struggle)
+- "Easier than drunks from taverns" (not a threat)
+- Gets bored, steps in casually, one-shots Aesir
+- Dismissive: "Drugged, disoriented, half-dead already. Pathetic."
 - Has him bound, carried to main city (Cell Block 3)
-- Leaves for "more serious matters"
+- Leaves for "more serious matters" (underestimates completely)
 
 ### Worldbuilding Added:
 
@@ -166,15 +167,19 @@
 - **Strategy** - Orma vault monopoly, Uwell manipulation, Utilta infiltration
 - **Nidus deception** - thinks she's negotiating as equals (Damascus humoring her)
 
-**Suppression Tonic:**
-- Damascus specialty drug
-- Feels like severed limb, numbing emptiness
-- Wears off gradually (hours)
+**Suppression Tonic + Sedative:**
+- Damascus specialty drug combination
+- Not just suppression - also impairment/inebriation
+- Feels like severed limb + sluggish thoughts + blurred vision
+- Aesir at 30-40% capacity maximum
+- Darkened mental state, disoriented, barely functional
 
-**Uwell Labyrinth:**
-- Twisted tunnels, city-to-city network
-- Market chambers (abandoned stalls, crates)
-- Ancient, vast, easy to get lost
+**Uwell Geography:**
+- Pacer already deep underground when Aesir escapes
+- Aesir has never been to Uwell, unfamiliar with layout
+- Underground roads branch (3, then 4, then more directions)
+- Glowstone lanterns, carved from living rock
+- Easy to get lost when disoriented
 
 ### Character Development:
 
@@ -218,4 +223,26 @@
 **Word Count:** ~4,200 words  
 **Reduction:** ~24% from original V1  
 **Status:** ✅ Complete, committed to GitHub
+
+---
+
+### CORRECTIONS APPLIED (July 9, 2026):
+
+**Power Level:**
+- Original V2: Power "returns gradually" to functional levels
+- Corrected: Power barely functions (30-40% max), inebriated/impaired state
+- Aesir sluggish, blurred vision, darkened mental state throughout
+
+**Location Clarity:**
+- Original V2: Aesir "escapes into Uwell" (implied entering from outside)
+- Corrected: Already deep in Uwell when he breaks free, unfamiliar territory
+- Never been to Uwell, lost in underground roads he doesn't know
+
+**Fight Realism:**
+- Original V2: Aesir "barely defeats" Damascus guards, struggles with Borum's men
+- Corrected: Escape fight is desperate/lucky (clumsy, barely functional)
+- Borum's men outperform him EASILY (easier than tavern drunks)
+- Not a real contest - he's drugged, disoriented, at 30-40% capacity
+
+**Result:** Aesir is a barely-functional fugitive, not a capable fighter in this state. Borum's dismissal ("pathetic") is justified - he sees a drugged prisoner, not a threat. Sets up later payoff when Aesir at full strength.
 
