@@ -139,7 +139,15 @@ The Damascus soldiers spoke quietly. Thought he was unconscious.
 
 "Two more hours to the main city," one said. Scarred face. Grey uniform with crimson trim. Older. "Straight to Nidus's compound. Then we're done with this."
 
-"Good," the other replied. Younger. Less scarred. "Three days underground. I want to see the sky again."
+"Good," the other replied. Younger. Less scarred. "Three days underground. I want to see the sky again. Breathe air that doesn't taste like stone."
+
+The scarred one snorted. "At least we get to leave. The Uwell guards back there?" He jerked his thumb toward the rear of the pacer. "Born down here. Never seen a sunrise. Probably don't even notice the smell anymore."
+
+The younger soldier laughed. Quiet. "You think that's why they all look so pale? Like mushrooms?"
+
+"Mushrooms with swords." The scarred one grinned. "Three days down here and I can't tell what smells worse—the tunnels or them."
+
+They both chuckled. Low. Tired.
 
 Silence for a moment. Just the rhythm of hooves. The hum of the pacer.
 
@@ -157,11 +165,19 @@ Then the younger soldier laughed. Nervous. Disbelieving.
 
 "Indexto? Come on. Those are stories. Myths."
 
-The scarred soldier's voice went cold. "You think Lord Veskar is lying?"
+The scarred soldier's voice went cold. Sharp.
 
-The younger soldier's laugh died. He swallowed. Hard.
+"You think Lord Veskar is lying?"
 
-"No. No, not at all. I just—" He exhaled. "This is insane information. I don't know what to think. I don't really know enough about the subject matter."
+The younger soldier's laugh died in his throat. Like someone had strangled it.
+
+He swallowed. Hard. Audible.
+
+"No. No, not at all. I just— I didn't mean— My grandmother would beat me for even thinking—" He stumbled over the words. "I mean, I wasn't questioning Lord Veskar. I was just— This is insane information. I don't know what to think. I don't really know enough about the subject matter. I was a kid when I heard those stories. Just a dumb kid. My grandmother told me— I mean, she wasn't lying either. She believed it. I believe it. I believe Lord Veskar. I'm not—"
+
+"Relax," the scarred soldier said. Almost amused now. "I won't report you for being an idiot."
+
+The younger soldier exhaled. Shakily. "Thank you."
 
 "None of us do," the scarred one said. "But Veskar's one of Ramstock's five generals. You think they'd go through all this trouble for nothing? For a story?"
 
@@ -299,69 +315,99 @@ The chain gave. Not a clean break. A desperate tear.
 
 ---
 
-The guards turned.
+The guards didn't notice.
+
+Still talking. Voices low. The scarred one explaining something about Utilta's defenses.
+
+Aesir waited.
+
+Felt for the lock mechanism. Hands still bound behind him. Wrists raw from the rope.
+
+He focused through the fog. The drug still dulling everything.
+
+Electromagnetic current. Weak. Stuttering. But there.
+
+The lock heated. Barely. Just enough.
+
+He pulled his shoulder against the cage door.
+
+It gave.
+
+Silent.
+
+---
+
+The Damascus soldiers kept talking.
 
 Aesir moved.
 
-Hands free. Grabbed the bars. Tried to send a pulse through the lock.
+Shoulder-first into the scarred soldier's back.
 
-The energy sputtered. Weak. Unfocused.
+The man pitched forward. Hit the pacer's edge. Tried to turn.
 
-But enough.
+Aesir drove his knee into the man's ribs. Felt something give.
 
-The lock sparked. Gave.
+The younger soldier shouted. Reached for his blade.
 
-The door swung open.
+Aesir headbutted him.
 
-He stumbled out.
+The soldier's nose shattered. Blood everywhere. He staggered back.
 
----
+His foot caught the cage door.
 
-The scarred guard drew his blade. Aesir caught his wrist.
-
-Too slow. Too clumsy.
-
-The guard twisted free. Blade coming around.
-
-Aesir ducked under it. More luck than skill. Drove his shoulder into the man's chest.
-
-They both went down.
-
-Aesir's fist connected. Once. Twice. The guard's head snapped back.
-
-The second guard swung a baton.
-
-Aesir rolled. The baton hit metal. He kicked out. Caught the guard's knee.
-
-The man stumbled.
-
-Aesir grabbed the cage edge. Pulled himself up. Vision swimming.
-
-The guard came at him again.
-
-Aesir shoved energy into his palm. Barely a spark. Slammed it into the guard's chest.
-
-The man flew back. Hit the tunnel wall. Slid down.
+Fell hard.
 
 ---
 
-The draft beast panicked. Bolted.
+The scarred soldier recovered. Drew his blade.
 
-The pacer lurched. Aesir lost his footing. Hit the platform hard.
+Aesir ducked. Used the cage bars for leverage. Kicked out with both feet.
 
-The hover mechanism sputtered. Destabilized.
+Caught the guard in the chest.
 
-The pacer tilted. Scraped stone. Sparks everywhere.
+The man flew off the pacer. Hit the tunnel floor.
 
-Aesir rolled off the edge.
+Didn't get up.
 
-Hit the ground badly. Something in his ribs cracked.
+---
 
-Behind him, the pacer crashed. Metal screaming.
+The younger soldier was on the ground. Bleeding. Dazed.
 
-He forced himself up.
+Aesir grabbed the cage bars. Pulled himself to the front. Hands still tied.
+
+He focused. Shoved a pulse of energy into the pacer's hover mechanism.
+
+It sputtered. Overloaded.
+
+The draft beast panicked. Felt the energy surge. Bolted.
+
+The pacer lurched.
+
+The younger soldier scrambled for purchase. Grabbed the edge.
+
+Too late.
+
+The pacer tilted. Scraped the tunnel wall. Sparks flying.
+
+Aesir jumped.
+
+Hit the ground rolling. Hands tied behind him. Couldn't break the fall properly.
+
+Pain shot through his shoulder. His ribs. Everywhere.
+
+Behind him, the pacer crashed. Metal screaming against stone.
+
+The Uwell guards in back shouted. Scrambling.
+
+Aesir forced himself up.
 
 Ran.
+
+Hands still bound. Vision swimming. Blood running down his face.
+
+But free.
+
+For now.
 
 ---
 
